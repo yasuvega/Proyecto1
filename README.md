@@ -3,6 +3,8 @@
 ## Autor
 ### Yasu Vega
 
-#### Hola a todos, esto esta muy chiva
+#### Hola a todos
 
 ![Gatito](img/gato.png)
+
+#### Esta linea fue agregada dsesde la casa
