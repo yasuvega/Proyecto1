@@ -5,4 +5,4 @@
 
 #### Hola a todos, esto esta muy chiva
 
-![Gatito](img/gato.jpg)
+![Gatito](img/gato.png)
